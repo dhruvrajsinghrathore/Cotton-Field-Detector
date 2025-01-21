@@ -29,7 +29,7 @@ We implemented a U-Net model for semantic segmentation.
 
 ### Acreage Calculation
 
-We used mathematical calculations to obtain acreage from the model outputs.
+We used mathematical calculations that used pixel values to obtain acreage from the model outputs.
 
 ## Challenges and Solutions
 
