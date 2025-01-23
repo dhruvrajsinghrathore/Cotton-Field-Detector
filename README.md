@@ -1,6 +1,6 @@
 # Cotton-Field-Detector
 
-Certainly! Here's the content formatted as a GitHub markdown file:
+![Alt text](/sample_satellite_image.png)
 
 # Cotton Crop Classification from Satellite Imagery
 
