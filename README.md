@@ -58,7 +58,6 @@ We used mathematical calculations that used pixel values to obtain acreage from 
 - Allowed identification of cotton regions within each tile, regardless of other crops present
 
 ### Area Calculation
-
 **Challenge:** Calculating the amount of cotton present in every image.
 
 **Solution:**
